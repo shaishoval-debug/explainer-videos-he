@@ -1,4 +1,16 @@
-export type ShapeKind = "head" | "dots" | "waves" | "doors" | "none";
+export type ShapeKind =
+  | "head"
+  | "dots"
+  | "waves"
+  | "doors"
+  | "twoHeads"
+  | "spectrum"
+  | "knobs"
+  | "split"
+  | "headSide"
+  | "joinRow"
+  | "tips"
+  | "none";
 
 export type Scene = {
   id: string;

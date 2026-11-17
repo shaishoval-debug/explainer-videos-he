@@ -8,6 +8,7 @@
     "studio": "remotion studio",
     "render": "remotion render",
     "render:autism": "remotion render autism out/autism.mp4",
+    "render:maya": "remotion render maya out/maya.mp4",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

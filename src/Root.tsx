@@ -4,9 +4,10 @@ import { Explainer, totalFrames } from "./Explainer";
 import { theme } from "./theme";
 import { VideoContent } from "./types";
 import autism from "../content/autism.json";
+import maya from "../content/maya.json";
 
 // כל סרטון = קובץ JSON אחד בתיקיית content, ושורה אחת ברשימה הזו.
-const videos: VideoContent[] = [autism as VideoContent];
+const videos: VideoContent[] = [autism as VideoContent, maya as VideoContent];
 
 export const RemotionRoot: React.FC = () => (
   <>

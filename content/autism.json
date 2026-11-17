@@ -1,0 +1,13 @@
+{
+  "id": "autism",
+  "title": "מה זה אוטיזם?",
+  "accent": "#D7261E",
+  "scenes": [
+    { "id": "s1", "type": "title", "text": "מה זה אוטיזם?", "subtext": "טיוטה ראשונה – התסריט ייכתב מחדש", "seconds": 4 },
+    { "id": "s2", "type": "statement", "shape": "head", "text": "אוטיזם הוא דרך אחרת\nשבה המוח קולט ומעבד את העולם", "narration": "אוטיזם הוא לא מחלה. זו דרך אחרת שבה המוח קולט את העולם ומעבד אותו.", "seconds": 6 },
+    { "id": "s3", "type": "statement", "shape": "waves", "text": "קולות, אורות ומגע\nיכולים להרגיש חזקים או חלשים יותר", "narration": "אצל חלק מהאנשים האוטיסטים, קולות, אורות ומגע מורגשים בעוצמה אחרת.", "seconds": 6 },
+    { "id": "s4", "type": "statement", "shape": "dots", "text": "כל אדם אוטיסט שונה מהאחר", "narration": "אין שני אנשים אוטיסטים זהים. לכל אחד יש חוזקות וקשיים משלו.", "seconds": 5 },
+    { "id": "s5", "type": "statement", "shape": "doors", "text": "יש יותר מדרך אחת\nלתקשר, ללמוד ולהתחבר", "narration": "יש יותר מדרך אחת לתקשר, ללמוד ולהתחבר לאנשים.", "seconds": 6 },
+    { "id": "s6", "type": "end", "text": "להבין זה להתחיל", "subtext": "explainer-videos-he", "seconds": 4 }
+  ]
+}
